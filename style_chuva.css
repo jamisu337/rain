@@ -1,0 +1,68 @@
+#chuva{
+    display: flex;
+    align-items: center;
+    transform: translate(-400px,200px);
+}
+
+.gota{
+    background-color: rgb(0, 255, 255);
+    box-shadow: 0 0 8px rgb(0, 255, 255);
+    width: 20px;
+    height: 40px;
+}
+
+.gota1,
+.gota2,
+.gota3,
+.gota4{
+    width: 15px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+.gota5,
+.gota6,
+.gota7,
+.gota8,
+.gota9{
+    width: 10px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.gota1{
+    transform: translate(-274%,4%);;
+}
+
+.gota2{
+    transform: translate(-59%,76%);
+}
+
+.gota3{
+    transform: translate(528%,17%);
+}
+
+.gota4{
+    transform: translate(320%,168%);
+}
+
+.gota5{
+    transform: translate(-736%,22%);
+}
+
+.gota6{
+    transform: translate(-938%,209%);
+}
+
+.gota7{
+    transform: translate(-476%,45%);
+}
+
+.gota8{
+    transform: translate(-44%,-10%);
+}
+
+.gota9{
+    transform: translate(-279%,142%);
+}
+
