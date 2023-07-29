@@ -7,7 +7,7 @@ body{
 
 #container_geral{
     display: flex;
-    transform: translate(100px,310px ) scale(2);
+    transform: translate(60px,60px );
 }
 
 #local2{
